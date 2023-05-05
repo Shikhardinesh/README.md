@@ -121,14 +121,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png"
-      alt="linux"
-      width="80"
-      height="40"
-    />
-  </a>
 </p>
 <p>
   <img
